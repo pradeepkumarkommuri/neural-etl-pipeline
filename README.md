@@ -266,4 +266,4 @@ pytest tests/ -k "not anomaly and not Integration"
 
 ## License
 
-MIT © 2024
+MIT © MIT © [Pradeep Kumar Kommuri](https://github.com/pradeepkumarkommuri)
