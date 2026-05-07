@@ -2,7 +2,7 @@
 
 > **Production-grade ETL pipeline** with TensorFlow-powered anomaly detection, async batch processing, and SQL data warehousing.
 
-[![CI/CD](https://github.com/yourusername/neural-etl-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/neural-etl-pipeline/actions)
+[![CI/CD](https://github.com/yourusername/neural-etl-pipeline/actions/workflows/ci.yml/badge.svg)]
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://python.org)
 [![TensorFlow 2.15+](https://img.shields.io/badge/TensorFlow-2.15+-orange.svg)](https://tensorflow.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
